@@ -63,6 +63,12 @@ Alternatively, you can install the dependencies via
 pip install -r requirements.txt
 ```
 
+Next, install it as a python package
+
+```sh
+pip install -e .
+```
+
 ## Pretrained models
 
 Model weights and loading instructions are coming soon.
